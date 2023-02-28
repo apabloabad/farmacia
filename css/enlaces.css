@@ -1,0 +1,18 @@
+a {
+	text-decoration:none;
+	background: rgb(200,140,125);
+	color:rgb(200,200,200);
+	padding: 10px 20px;
+	font-weight: bold;
+	border-radius: 7px;
+}
+a:hover {
+	opacity: 0.7;
+	box-shadow: 6px 4px 5px #ccc;
+}
+a:focus {
+	
+}
+a:active {
+	background: rgb(228,210,145);
+}
